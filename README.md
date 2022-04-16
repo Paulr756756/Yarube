@@ -1,2 +1,2 @@
 # Yarube
-Native Todo application with MVVM architecture and ROOM database
+Native android Todo application with MVVM architecture and ROOM database
